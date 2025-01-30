@@ -71,5 +71,14 @@ This project implements a **real-time risk scoring model** that monitors and pre
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
+---
+
+## Contact
+If you have any questions or need further assistance, please feel free to contact:
+
+- **Name**: Sarowar Alam
+- **Email**: sarowaralam40@gmail.com
+- **GitHub**: [https://github.com/SarowarAlam](https://github.com/SarowarAlam)
+
 
 
